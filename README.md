@@ -1,12 +1,14 @@
-# Starter Next/Hardhat Project
+# Creating simple Web3 Project
 
-After cloning the github, you will want to do the following to get the code running on your computer.
+## Description
 
-1. Inside the project directory, in the terminal type: npm i
-2. Open two additional terminals in your VS code
-3. In the second terminal type: npx hardhat node
-4. In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js
-5. Back in the first terminal, type npm run dev to launch the front-end.
+This Project showcases the knowledge or information that was taught by the metacrafter modules.
 
-After this, the project will be running on your localhost. 
-Typically at http://localhost:3000/
+## Author
+
+Metacrafter Alex  
+
+## License
+
+This project is licensed under the MIT License
+
